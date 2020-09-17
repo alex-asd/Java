@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="258.0" prefWidth="292.0" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Client.GUI.controllers.LoginController">
+   <children>
+      <Label layoutX="14.0" layoutY="41.0" text="Username:" />
+      <TextField fx:id="usernameField" layoutX="92.0" layoutY="36.0" />
+      <PasswordField fx:id="passwordField" layoutX="92.0" layoutY="75.0" />
+      <Label layoutX="14.0" layoutY="80.0" text="Password:" />
+      <Button fx:id="loginBtn" layoutX="114.0" layoutY="114.0" mnemonicParsing="false" text="Connect and login" />
+       <Label layoutX="14.0" layoutY="150.0" text="Server IP:" />
+       <TextField fx:id="serverIPField" layoutX="92.0" layoutY="150.0" />
+       <Label layoutX="14.0" layoutY="200.0" text="Port num:" />
+       <TextField fx:id="serverPortField" layoutX="92.0" layoutY="200.0" />
+   </children>
+</Pane>

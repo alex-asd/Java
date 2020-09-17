@@ -1,0 +1,15 @@
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.csprojResolveAssemblyReference.cache
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.Form1.resources
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.Properties.Resources.resources
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.csproj.GenerateResource.cache
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.csproj.CoreCompileInputs.cache
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\TrackPartClient.exe.config
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\TrackPartClient.exe
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\TrackPartClient.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.exe
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\ClassLibrary.dll
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\Newtonsoft.Json.dll
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\ClassLibrary.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\bin\Debug\Newtonsoft.Json.xml
+F:\Instaled\SDJ C# sources\FacilityClient\TrackPartClient\obj\Debug\TrackPartClient.csproj.CopyComplete

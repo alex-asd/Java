@@ -1,0 +1,6 @@
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\obj\Debug\ClassLibrary.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

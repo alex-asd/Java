@@ -1,0 +1,15 @@
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\FacilityClient.exe.config
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\FacilityClient.exe
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\FacilityClient.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\ClassLibrary.dll
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\Newtonsoft.Json.dll
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\ClassLibrary.pdb
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\bin\Debug\Newtonsoft.Json.xml
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.csprojResolveAssemblyReference.cache
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.Form1.resources
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.Properties.Resources.resources
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.csproj.GenerateResource.cache
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.csproj.CoreCompileInputs.cache
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.csproj.CopyComplete
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.exe
+F:\Instaled\SDJ C# sources\FacilityClient\FacilityClient\obj\Debug\FacilityClient.pdb
